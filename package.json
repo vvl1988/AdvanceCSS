@@ -16,7 +16,9 @@
     "url": "https://github.com/vvl1988/AdvanceCSS/issues"
   },
   "homepage": "https://github.com/vvl1988/AdvanceCSS#readme",
-  "dependencies": {},
+  "dependencies": {
+    "live-server": "^1.2.1"
+  },
   "devDependencies": {
     "node-sass": "^4.13.1"
   }
